@@ -4,7 +4,7 @@ import os
 AWS_KEY = "ASIA2OZMF6GJNPHDE43B"
 AWS_SECRET = "RDkc95/4Qq7ZhylNScCi9Pfg2UXiH88Bmod8k3DA"
 AWS_SESSION = "FwoGZXIvYXdzEAEaDJ5gb3xF1btAlz8p7iLKAZL4U3iVLveu7ZGVhtkb+CqQT0crJ4SalCphbzI8t2tVrDcgZO2Zj1nhzAQFqw3cReg658q0luZQks3Ik/fYlsyxjfFi1oYbCe+9sDxqd1S1qUfMwyb8BEgfi9C2IJAkkldWbuf7Vtu7PJvilW6crKa3/Stv4Y3nvCEzkjdN/HogOiv+XbrQ0E6MCBJH6zQpirM8Youd16SyxZNArVlarvv60qhnQsA6weOplkrKXAnXZATc5tsX0iaqOV+dI7keHRLcAHT8TCYq9M0ooKX5hgYyLcIE0IorJQ+szaX1Ed8XpRWmGw+CCvirb0YVlVpT+G6anAvOJwv0DwuiSPpi2Q=="
-S3_BUCKET = "app-flask-s3-uploader-bucket"
+S3_BUCKET = "robson-felipe-bucket"
 SECRET_KEY = os.urandom(32)
 DEBUG = False
 PORT = 5000
